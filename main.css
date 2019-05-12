@@ -1,0 +1,32 @@
+
+.green{
+    color: greenyellow;
+}
+.ShowData{
+    margin: 100px;
+}
+.note-list-element{
+    margin: 10px;
+}
+.note-list-element1{
+    margin: 100px;
+    background-color: greenyellow;
+}
+.card{
+
+    margin: 30px;
+}
+.card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+ }
+ .cards {
+    background-color: #fff;
+    -webkit-box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    border-radius: 15px; 
+}
